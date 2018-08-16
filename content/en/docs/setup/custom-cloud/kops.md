@@ -153,6 +153,7 @@ See the [list of add-ons](/docs/concepts/cluster-administration/addons/) to expl
 
 * Learn more about Kubernetes [concepts](/docs/concepts/) and [`kubectl`](/docs/user-guide/kubectl-overview/).
 * Learn about `kops` [advanced usage](https://github.com/kubernetes/kops)
+* Check the [docs](https://github.com/kubernetes/kops/tree/master/docs/) section of the `kops` repo. Tons of tutorials and best practices. 
 
 ## Cleanup
 
@@ -160,6 +161,6 @@ See the [list of add-ons](/docs/concepts/cluster-administration/addons/) to expl
 
 ## Feedback
 
-* Slack Channel: [#sig-aws](https://kubernetes.slack.com/messages/sig-aws/) has a lot of kops users
+* Slack Channel: [#kops-users](https://kubernetes.slack.com/messages/kops-users/) has a lot of kops users ;) 
 * [GitHub Issues](https://github.com/kubernetes/kops/issues)
 
